@@ -4,7 +4,7 @@
 /node_modules
 .env
 /prisma
-/src/api
+/src/app/api
 /src/utils
 /.pnp
 .pnp.js
